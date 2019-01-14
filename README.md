@@ -1,3 +1,5 @@
+REPO: https://github.com/NimaBoscarino/node-api-notes.git
+
 # W2D1 breakout: Node API example
 
 # TOPICS:
